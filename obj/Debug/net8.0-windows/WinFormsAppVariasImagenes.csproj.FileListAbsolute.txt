@@ -1,0 +1,17 @@
+C:\Users\NesGa\OneDrive\Documentos\progamacion\WinFormsAppVariasImagenes\bin\Debug\net8.0-windows\WinFormsAppVariasImagenes.exe
+C:\Users\NesGa\OneDrive\Documentos\progamacion\WinFormsAppVariasImagenes\bin\Debug\net8.0-windows\WinFormsAppVariasImagenes.deps.json
+C:\Users\NesGa\OneDrive\Documentos\progamacion\WinFormsAppVariasImagenes\bin\Debug\net8.0-windows\WinFormsAppVariasImagenes.runtimeconfig.json
+C:\Users\NesGa\OneDrive\Documentos\progamacion\WinFormsAppVariasImagenes\bin\Debug\net8.0-windows\WinFormsAppVariasImagenes.dll
+C:\Users\NesGa\OneDrive\Documentos\progamacion\WinFormsAppVariasImagenes\bin\Debug\net8.0-windows\WinFormsAppVariasImagenes.pdb
+C:\Users\NesGa\OneDrive\Documentos\progamacion\WinFormsAppVariasImagenes\obj\Debug\net8.0-windows\WinFormsAppVariasImagenes.Form1.resources
+C:\Users\NesGa\OneDrive\Documentos\progamacion\WinFormsAppVariasImagenes\obj\Debug\net8.0-windows\WinFormsAppVariasImagenes.Properties.Resources.resources
+C:\Users\NesGa\OneDrive\Documentos\progamacion\WinFormsAppVariasImagenes\obj\Debug\net8.0-windows\WinFormsAppVariasImagenes.csproj.GenerateResource.cache
+C:\Users\NesGa\OneDrive\Documentos\progamacion\WinFormsAppVariasImagenes\obj\Debug\net8.0-windows\WinFormsAppVariasImagenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NesGa\OneDrive\Documentos\progamacion\WinFormsAppVariasImagenes\obj\Debug\net8.0-windows\WinFormsAppVariasImagenes.AssemblyInfoInputs.cache
+C:\Users\NesGa\OneDrive\Documentos\progamacion\WinFormsAppVariasImagenes\obj\Debug\net8.0-windows\WinFormsAppVariasImagenes.AssemblyInfo.cs
+C:\Users\NesGa\OneDrive\Documentos\progamacion\WinFormsAppVariasImagenes\obj\Debug\net8.0-windows\WinFormsAppVariasImagenes.csproj.CoreCompileInputs.cache
+C:\Users\NesGa\OneDrive\Documentos\progamacion\WinFormsAppVariasImagenes\obj\Debug\net8.0-windows\WinFormsAppVariasImagenes.dll
+C:\Users\NesGa\OneDrive\Documentos\progamacion\WinFormsAppVariasImagenes\obj\Debug\net8.0-windows\refint\WinFormsAppVariasImagenes.dll
+C:\Users\NesGa\OneDrive\Documentos\progamacion\WinFormsAppVariasImagenes\obj\Debug\net8.0-windows\WinFormsAppVariasImagenes.pdb
+C:\Users\NesGa\OneDrive\Documentos\progamacion\WinFormsAppVariasImagenes\obj\Debug\net8.0-windows\WinFormsAppVariasImagenes.genruntimeconfig.cache
+C:\Users\NesGa\OneDrive\Documentos\progamacion\WinFormsAppVariasImagenes\obj\Debug\net8.0-windows\ref\WinFormsAppVariasImagenes.dll
